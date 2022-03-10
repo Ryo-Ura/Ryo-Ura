@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning web-dev **React, JavaScript, Node**
 - 📫 How to reach me: **urawaryosuke@gmail.com**
 
-##Stats
+## Stats
 [![Ryo-Ura's github stats](https://github-readme-stats.vercel.app/api?username=Ryo-Ura&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Ryo-Ura/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryo-Ura&layout=compact&theme=tokyonight)](https://github.com/Ryo-Ura/)
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-C++-1572B6.svg?logo=c%2B%2B&style=plastic">|<img src="https://img.shields.io/badge/-JavaScript-3399FF.svg?logo=javascript&style=plastic">|<img src="https://img.shields.io/badge/-Java-007396.svg?logo=java&style=plastic">|<img src="https://img.shields.io/badge/-Dart-0175C2.svg?logo=dart&style=plastic">|<img src="https://img.shields.io/badge/-Python-FFFF00.svg?logo=Python&style=plastic">
 :--:|:--:|:--:|:--:|:--:| -->
 
-##Languages
+## Languages
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
