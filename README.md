@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <!-- <h3 align="center">An University student desiring to work as an engineer</h3> -->
 
 - 🔭 I’m currently studying at **UBC**
-- 🌱 I’m currently learning web-dev **React, JavaScript, Node**
+- 🌱 I’m currently learning web-dev **React, Node, TypeScript**
 - 📫 How to reach me: **urawaryosuke@gmail.com**
 - ⚡ Currently working on own website: https://portofolio-zero.vercel.app/
 
