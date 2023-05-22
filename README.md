@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently studying at **UBC**
 - 🌱 I’m currently learning web-dev **React, Node, TypeScript, JavaScript**
 - 📫 How to reach me: **urawaryosuke@gmail.com**
-- ⚡ Currently working on own website: https://portofolio-zero.vercel.app/
+<!-- - ⚡ Currently working on own website: https://portofolio-zero.vercel.app/ -->
 
 ## Stats
 [![Ryo-Ura's github stats](https://github-readme-stats.vercel.app/api?username=Ryo-Ura&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Ryo-Ura/)
